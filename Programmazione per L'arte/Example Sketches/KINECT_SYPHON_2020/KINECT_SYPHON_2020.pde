@@ -1,10 +1,12 @@
 // Kinect to Syphon
 // Depth thresholding by Daniel Shiffman
 // From Open Kinect for Processing 
+// Random and relative postions
 /*
- * Politecnico di Milano, Digital Art 2021/2022
- * Teacher assistant: Giulio Interlandi 
+ * Harim, Programmazione per l'arte 2020/2021
+ * Teacher: Giulio Interlandi 
  */
+
 
 import org.openkinect.freenect.*;
 import org.openkinect.processing.*;

@@ -1,8 +1,9 @@
 // Basic_Audio_Input
 /*
- * Politecnico di Milano, Digital Art 2020/2021
- * Teacher assistant: Giulio Interlandi 
+ * Harim, Programmazione per l'arte 2020/2021
+ * Teacher: Giulio Interlandi 
  */
+
 
 import ddf.minim.*; //import the library
 
